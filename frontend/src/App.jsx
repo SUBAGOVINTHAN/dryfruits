@@ -4,8 +4,8 @@ function App() {
   return (
     <>
       <div className="flex min-h-screen items-center justify-center bg-slate-100">
-        <h1 className="text-3xl font-bold text-indigo-600">
-          E-Commerce App – Setup Works
+        <h1 className="text-3xl font-bold text-amber-300">
+          E-Commerce App 
         </h1>
       </div>
     </>
